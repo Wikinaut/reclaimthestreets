@@ -15,7 +15,7 @@ Holt Euch den Raum, der Euch gesetzlich und bautechnisch zugewiesen ist, aber du
 
 *) https://www.adfc-diepholz.de/rad-fahrende-kinder-auf-dem-gehweg/ : (Deutscher Regelwahnsinn:)
 
-Bis zum vollendeten 8. Lebensjahr (8. Geburtstag) MÜSSEN Kinder den Gehweg benutzen.
+Bis zum vollendeten 8. Lebensjahr (8. Geburtstag) MÜSSEN Kinder den Gehweg benutzen.  
 Bis zum vollendeten 10. Lebensjahr (10. Geburtstag) DÜRFEN Kinder den Gehweg benutzen, § 2 Abs. 5 StVO
 
 Dabei müssen sie auf Fußgänger Rücksicht nehmen
