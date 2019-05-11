@@ -1,4 +1,4 @@
-Manifest
+### Manifest
 
 Radfahrer und Fußgänger aller Länder, vereinigt Euch!
 
@@ -12,6 +12,8 @@ Holt Euch den Raum, der Euch gesetzlich und bautechnisch zugewiesen ist, aber du
 * Nicht in Gegenrichtung auf dem Radweg radeln ("Geisterradler")
 * Keine Smartphonebenutzung während der (Rad)Fahrt
 * Fußgänger: seid keine "Smombies": bitte latscht nicht ohne zu gucken in Radwege oder rote Ampeln hinei
+
+### Fußnoten
 
 *) https://www.adfc-diepholz.de/rad-fahrende-kinder-auf-dem-gehweg/ : (Deutscher Regelwahnsinn:)
 
