@@ -10,8 +10,8 @@ Holt Euch den Raum, der Euch gesetzlich und bautechnisch zugewiesen ist, aber du
 * Nicht bei Rotlicht fahren oder gehen
 * Nicht auf dem Bürgersteig fahrradfahren, es sei denn man ist Kind (< 10 Jahre), oder man ist über 16 Jahre alt und begleitet ein Kind unter 8 Jahren. *)
 * Nicht in Gegenrichtung auf dem Radweg radeln ("Geisterradler")
-* Keine Smartphonebenutzung während der (Rad)Fahrt
-* Fußgänger: seid keine "Smombies": bitte latscht nicht ohne zu gucken in Radwege oder rote Ampeln hinein
+* Keine Smartphone- und/oder Kopfhörerbenutzung während der (Rad)Fahrt
+* Fußgänger: seid keine "Smombies": bitte latscht nicht ohne zu gucken in Radwege oder rote Ampeln hinein. Kopfhörertragen kann ebenso tödlich sein.
 
 ### Fußnoten
 
