@@ -27,3 +27,7 @@ NEU: Es darf auch auf einem “baulichen” Radweg gefahren werden. Aber NICHT a
 An Kreuzungen und Einmündungen müssen sie absteigen und das Fahrrad herüberschieben!
 
 NEU: 1 Aufsichtsperson ab 16 Jahre mit eigenem Fahrrad darf auf dem Gehweg mitfahren, bei Kindern <8 Jahre
+
+
+### Für Autofahrer
+https://twitter.com/polizeiberlin/status/1173875031895662592
