@@ -7,6 +7,7 @@ Holt Euch den Raum, der Euch gesetzlich und bautechnisch zugewiesen ist, aber du
 ### Re-Occupy!
 
 * Verhaltet Euch selbst stets vorbildhaft und beachtet die Regeln und Gesetze!
+* Solidarität: seid untereinander – Rad-zu-Rad, Fuß-zu-Fuß und natürlich auch Rad-zu-Fuß, Fuß-zu-Rad - solidarisch!
 * Nicht bei Rotlicht fahren oder gehen
 * Nicht auf dem Bürgersteig fahrradfahren, es sei denn man ist Kind (< 10 Jahre), oder man ist über 16 Jahre alt und begleitet ein Kind unter 8 Jahren. *)
 * Nicht in Gegenrichtung auf dem Radweg radeln ("Geisterradler")
